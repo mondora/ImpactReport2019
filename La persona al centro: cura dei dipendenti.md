@@ -12,7 +12,7 @@
 
 #### altro?
 
-### Attività consilidate
+### Attività consolidate
 
 #### formazione
 
