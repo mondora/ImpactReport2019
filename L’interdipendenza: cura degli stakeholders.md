@@ -10,9 +10,9 @@
 
 ### Attività consolidate
 
-#### accordi di interdipendenza, 
+#### Accordi di Interdipendenza 
 
-#### impact developer
+#### Impact Business Developer
 
 SDG:12,16,17
 SDG da migliorare: ?
