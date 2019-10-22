@@ -1,6 +1,6 @@
 ## L’interdipendenza: cura degli stakeholders
 
-### NUOVE ATTIVITà 2019
+### Nuove attività 2019
 
 #### f4t
 
