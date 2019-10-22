@@ -8,13 +8,13 @@
 
 ### Attività consolidate
 
-#### contadini, 
+#### Agricoltura 
 
-#### cycle2work, 
+#### Cycle2Work, 
 
-#### plastic free & paper free
+#### Plastic Free & Paper Free
 
-#### spluga
+#### Spluga
 
 SDG: 12,13,14,15
 
