@@ -5,7 +5,8 @@ Nel 2019 mondora è stata riconosciuta tra le aziende Best For The World nelle c
 
 #### Best for the world awards:
 - Changemakers 
-Il premio Changemakers viene riconosciuto solo alle aziende che hanno migliorato maggiormente il loro punteggio complessivo rispetto all'assessment dell'anno prima, dimostrando che continuano ad innovare dal punto di vista dell'impatto.
+
+Il premio Changemakers viene riconosciuto alle aziende che hanno migliorato maggiormente il loro punteggio complessivo rispetto al B Impact Assessment dalla certificazione precendente, dimostrando che continuano ad innovare il modo in cui creano impatto
 - governance
 - community
 - overall
