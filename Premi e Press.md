@@ -1,10 +1,20 @@
 ## Premi e Press
 
-### Premi:
+### Premi
+Nel 2019 mondora è stata riconosciuta tra le aziende Best For The World nelle categorie Overall, Changemakers, Community e Governance. Come ogni anno, al 10% delle aziende con il punteggio più alto nelle cinquee aree del B Impact Assessment gestito da B Lab, viene conferito questo riconoscimento per mettere in risalto il fatto che queste aziende sono le migliori per il mondo, per l'impatto positivo che producono.
 
 #### Best for the world awards:
-- changemakers
-- governance --> Il conferimento di questo premio è dovuto principalmente alla struttura organizzativa di mondora, il self management e il metodo decisionale. In mondora infatti le decisioni vengono prese in accordo tra colleghi, avvalendosi della piattaforma Loomio che permette di aprire delle discussioni e confrontarsi, in modo tale da coinvolgere attivamente tutta l'azienda, compresi i colleghi che lavorano da remoto.
+
+- Changemakers 
+
+Il premio Changemakers viene riconosciuto alle aziende che hanno migliorato maggiormente il loro punteggio complessivo rispetto al B Impact Assessment dalla certificazione precendente, dimostrando che continuano ad innovare il modo in cui creano impatto
+
+- Governance
+
+Il conferimento di questo premio è dovuto principalmente alla struttura organizzativa di mondora, il self management e il metodo decisionale. In mondora infatti le decisioni vengono prese in accordo tra colleghi, avvalendosi della piattaforma Loomio che permette di aprire delle discussioni e confrontarsi, in modo tale da coinvolgere attivamente tutta l'azienda, compresi i colleghi che lavorano da remoto.
+
+- community
+
 - overall
 
 ### Press e interventi a conferenze:
