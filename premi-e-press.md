@@ -15,7 +15,7 @@ Il premio Changemakers viene riconosciuto alle aziende che hanno migliorato magg
 Il conferimento di questo premio è dovuto principalmente alla struttura organizzativa di mondora, il self management e il metodo decisionale. In mondora infatti le decisioni vengono prese in accordo tra colleghi, avvalendosi della piattaforma Loomio che permette di aprire delle discussioni e confrontarsi, in modo tale da coinvolgere attivamente tutta l'azienda, compresi i colleghi che lavorano da remoto.
 
 * community
-* overall
+* overall --> Il conferimento del premio Best For The World Overall è dovuto in particolar modo al progetto Cycle2Work, alla possibilità di formazione continua ed inoltre agli accordi di interdipendenza che vengono stabiliti con i clienti di mondora.
 
 ## Press e interventi a conferenze:
 
