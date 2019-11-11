@@ -36,9 +36,51 @@ Una pratica ormai consolidata è quella della misurazione della felicità dei di
 
 ### meditazione
 
-SDG: 8,12,16
+## Valutazione dell'impatto
+I dipendenti sono lo stakeholder principale verso cui è rivolto l’impatto aziendale prodotto attraverso le attività sopra descritta. Le pratiche aziendali hanno impattato tutti i 63 dipendenti dell’azienda, che hanno partecipato alle varie attività quali laboratori e corsi di formazione, 4to5, failure party e ore di meditazione. In particolare i dipendenti hanno beneficiato di 42 giornate totali di formazione sul lavoro. I dipendenti hanno inoltre lavorato con flessibilità di luogo e orario, ed hanno potuto portare avanti i loro progetti di impatto individuale all’interno dell’azienda. 
 
-SDG da migliorare: ?
+Grazie a queste iniziative mondora ha contribuito ai Sustainable Development Goals 4 - Quality Education (4.4, 4.5, 4.7), 8 - Decent Work and Economic Growth (8.2, 8.4, 8.5, 8.6), 9 - Industry, Innovation and Infrastructure (9.4, 9.5), 10 - Reduced Inequalities (10.2).  
 
- _**Aggiungete pure altre nuove pratiche che rientrano in questa focus area!**_ 
+mondora ritiene inoltre di poter migliorare il suo contributo verso lo stakeholder “dipendenti" lavorando in aggiunta sull’impatto verso i Sustainable Development Goals 3 - Good Health and Wellbeing (in particolare il subgoal 3.8) e 5 - Gender Equality (subgoals 5.5 e 5.b). 
+
+### SDG e Subgoals citati
+
+**3 - Good Health and Wellbeing**
+
+3.8 Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all
+
+**4 - Quality Education**
+
+4.4 By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship
+
+4.5 By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations
+
+4.7 By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development
+
+**5 - Gender Equality**
+
+5.5 Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life
+
+5.b Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women
+
+**8 - Decent Work and Economic Growth**
+
+8.2 Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors
+
+8.4 Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-year framework of programmes on sustainable consumption and production, with developed countries taking the lead
+
+8.5 By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value
+
+8.6 By 2020, substantially reduce the proportion of youth not in employment, education or training
+
+**9 - Industry, Innovation and Infrastructure**
+
+9.4 By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities
+
+9.5 Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending
+
+**10 - Reduced Inequalities**
+
+10.2 By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status
+
 
