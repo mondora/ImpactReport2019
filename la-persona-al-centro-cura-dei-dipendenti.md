@@ -20,6 +20,10 @@ Un grosso problema affligge la nostra società: molte persone soffrono di un dis
 
 ## Attività consolidate
 
+### Self Management
+
+(orario flessibile, lavoro da remoto, decisioni su loomio, organizzazione in team)
+
 ### formazione
 
 ### 4to5
