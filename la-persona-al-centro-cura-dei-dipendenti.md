@@ -83,4 +83,4 @@ mondora ritiene inoltre di poter migliorare il suo contributo verso lo stakehold
 
 10.2 By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status
 
-
+https://sustainabledevelopment.un.org/sdgs
