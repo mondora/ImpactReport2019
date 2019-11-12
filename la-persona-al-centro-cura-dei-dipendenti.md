@@ -41,9 +41,10 @@ Una pratica ormai consolidata è quella della misurazione della felicità dei di
 ### meditazione
 
 ## Valutazione dell'impatto
-I dipendenti sono lo stakeholder principale verso cui è rivolto l’impatto aziendale prodotto attraverso le attività sopra descritta. Le pratiche aziendali hanno impattato tutti i 63 dipendenti dell’azienda, che hanno partecipato alle varie attività quali laboratori e corsi di formazione, 4to5, failure party e ore di meditazione. In particolare i dipendenti hanno beneficiato di 42 giornate totali di formazione sul lavoro. I dipendenti hanno inoltre lavorato con flessibilità di luogo e orario, ed hanno potuto portare avanti i loro progetti di impatto individuale all’interno dell’azienda. 
 
-Grazie a queste iniziative mondora ha contribuito ai Sustainable Development Goals 4 - Quality Education (4.4, 4.5, 4.7), 8 - Decent Work and Economic Growth (8.2, 8.4, 8.5, 8.6), 9 - Industry, Innovation and Infrastructure (9.4, 9.5), 10 - Reduced Inequalities (10.2).  
+I dipendenti sono lo stakeholder principale verso cui è rivolto l’impatto aziendale prodotto attraverso le attività sopra descritta. Le pratiche aziendali hanno impattato tutti i 63 dipendenti dell’azienda, che hanno partecipato alle varie attività quali laboratori e corsi di formazione, 4to5, failure party e ore di meditazione. In particolare i dipendenti hanno beneficiato di 42 giornate totali di formazione sul lavoro. I dipendenti hanno inoltre lavorato con flessibilità di luogo e orario, ed hanno potuto portare avanti i loro progetti di impatto individuale all’interno dell’azienda. Infine, l’importanza della trasparenza come valore aziendale e l’applicazione del self management hanno permesso a tutti i dipendenti di partecipare collettivamente nelle decisioni aziendali e influenzare l’andamento delle operazioni strategiche. 
+
+Grazie a queste iniziative mondora ha contribuito ai Sustainable Development Goals 4 - Quality Education (4.4, 4.5, 4.7), 8 - Decent Work and Economic Growth (8.2, 8.4, 8.5, 8.6), 9 - Industry, Innovation and Infrastructure (9.4, 9.5), 10 - Reduced Inequalities (10.2), 16 - Peace, Justice and Strong Institutions (16.6, 16.7). 
 
 mondora ritiene inoltre di poter migliorare il suo contributo verso lo stakeholder “dipendenti" lavorando in aggiunta sull’impatto verso i Sustainable Development Goals 3 - Good Health and Wellbeing (in particolare il subgoal 3.8) e 5 - Gender Equality (subgoals 5.5 e 5.b). 
 
@@ -86,5 +87,12 @@ mondora ritiene inoltre di poter migliorare il suo contributo verso lo stakehold
 **10 - Reduced Inequalities**
 
 10.2 By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status
+
+**16 - Peace, Justice and Strong Institutions**
+
+16.6 Develop effective, accountable and transparent institutions at all levels
+
+16.7 Ensure responsive, inclusive, participatory and representative decision-making at all levels
+
 
 https://sustainabledevelopment.un.org/sdgs
