@@ -8,13 +8,23 @@
 
 ## Attività consolidate
 
-### misurazione dell'impatto nel software
+### L'impatto nel software
+
+Tutte le soluzioni software producono impatto, sta a chi le crea assicurarsi che questo impatto sia il più possibile positivo. mondora si impegna nella valutazione e nella misurazione dell’impatto prodotto dalle proprie soluzioni software analizzando ogni requisito, o storia, su cui i team vanno a lavorare. Il valore di ogni requisito viene valutato nel complesso a livello tecnologico,  di business, strategico e di benefit grazie alla formula:
+
+*Beneficio + Penalità + Impatto Positivo / Costo + Rischio*
+
+Questa formula aiuta clienti e sviluppatori a capire quali requisiti software sono i più importanti e possono quindi massimizzare il valore del prodotto creato.
+
+Inoltre, l’azienda crede fermamente che l’impatto va sempre misurato nel tempo e si impegna ad identificare e monitorare le metriche che permettono di valutare i risultati ottenuti dal proprio impegno.
 
 ### Open Source
 
 ### Spluga
 
 ### Green Servers
+
+mondora ha effettuato un’analisi approfondita dell’impatto delle proprie operazioni aziendali e ha definito delle linee guida per la scelta dei server da utilizzare. Lavorando quasi esclusivamente in cloud, mondora si appoggia a provider esterni: dopo un’attenta valutazione dell’impatto ambientale di vari fornitori si è deciso di appoggiarsi principalmente ad Amazon AWS (https://aws.amazon.com/it/about-aws/sustainability/ ) e Micrsoft Azure (http://aka.ms/uplift ). Questi provider infatti hanno un piano di riduzione della propria *carbon footprint* e risultano la scelta migliore per l’utilizzo di server a minor impatto possible. 
 
 ## Valutazione dell’Impatto
 
