@@ -12,7 +12,7 @@ Un grosso problema affligge la nostra società: molte persone soffrono di un dis
 
 ### paracadute,
 
-### banca del tempo?,
+### banca del tempo
 
 ### impatto individuale
 
@@ -24,21 +24,23 @@ Un grosso problema affligge la nostra società: molte persone soffrono di un dis
 
 (orario flessibile, lavoro da remoto, decisioni su loomio, organizzazione in team)
 
-### formazione
+### Corsi di Formazione
 
 ### 4to5
 
-### Failure party
+### Failure Party
 
 L'azienda incentiva l'apprendimento e il progresso del singolo, dando così la possibilità di fare errori per poi migliorarsi, perchè crede che le persone non imparano dai successi ma dagli errori. Per questo motivo è stata introdotta la pratica del failure party che consiste nella celebrazione dei fallimenti, una vera e propria festa, un modo per capire ciò che si è sbagliato, per far si che in futuro si possa solo che migliorare.
 
-### new opportunities project
+### New Opportunities Project
 
-### officevibe
+mondora pone grande attenzione all’inclusione di tutti e ha sviluppato negli anni un progetto per aiutare i colleghi che si trovano in situazioni particolari. New Opportunities è un programma che permette ai lavoratori in difficoltà di riqualificarsi, adattare la giornata lavorativa alle proprie esigenze personali ed essere seguiti da un mentor. Nel 2019 vediamo continuare il lavoro del nostro collega ingegnere riqualificato come agricoltore, una collega che ha modificato le sue mansioni ed ora si occupa di traduzioni ed editing di testi, un collega che proviene da un altro settore che sta imparando la programmazione.
+
+### Officevibe
 
 Una pratica ormai consolidata è quella della misurazione della felicità dei dipendenti, ovvero cercare di capire come si sentono le persone all'interno di mondora: qual è il livello di stress, com'è la qualità della comunicazione tra colleghi, la soddisfazione lavorativa e così via. Per far ciò mondora utilizza Officevibe, una piattaforma che, tramite una survey di 5 domande a settimana, permette di ricevere queste informazioni anche in maniera anonima, in modo tale che chiunque si senta libero di esprimere il proprio pensiero senza la paura di essere giudicati.
 
-### meditazione
+### Meditazione
 
 ## Valutazione dell'impatto
 
