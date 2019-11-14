@@ -20,5 +20,8 @@ Nel 2019 mondora è stata riconosciuta per la prima volta tra le aziende che por
 
 **Overall**
 
+Il conferimento del premio Best For The World Overall è dovuto in particolar modo al progetto Cycle2Work, alla possibilità di formazione continua ed inoltre agli accordi di interdipendenza che vengono stabiliti con i clienti di mondora.
+
+
 ## Press e interventi a conferenze:
 
