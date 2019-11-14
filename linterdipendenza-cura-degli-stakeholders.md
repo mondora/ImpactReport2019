@@ -2,15 +2,17 @@
 
 ## Nuove attività 2019
 
-### f4t
+### Food4Thought
 
-### nuovi accordi
+Nel 2019 mondora ha introdotto un evento ricorrente chiamato Food4Thought che ha lo scopo di tessere nuovi legami tra gli stakeholders dell’azienda e costruire insieme nuove relazioni ed opportunità di collaborazione volte alla creazione congiunta di impatto positivo nel mondo.
 
-### altro?
+Food4Thought è quindi una serie di eventi in cui degli ospiti selezionati trattano vari temi, quali intelligenza artificiale, inclusione, accessibilità, mobilità sostenibile e altro. L’incontro è formato dallo speech di un esperto dell’argomento trattato, seguito da un dibattito tra gli ospiti. Dopo il dibattito si passa ad un pranzo a tema, in cui ad ogni incontro viene rappresentata la cultura di un diverso paese , raccontata attraverso la storia dei cibi che sono stati preparati. Il senso di questi incontri sta proprio nella condivisione di idee e buone pratiche che possono essere d’ispirazione alle aziende. 
 
 ## Attività consolidate
 
 ### Accordi di Interdipendenza
+
+Anche quest’anno mondora ha stipulato degli Accordi di Interdipendenza con i propri clienti, fornitori e partner con cui ha collaborato, aumentando sostanzialmente il numero di accordi attivi. Per ogni accordo mondora concorda uno sconto sui propri servizi in cambio dell’impegno di condividere un progetto ad impatto positivo, misurato con delle metriche specifiche che vengono delineate nella clausola del contratto e fornite ogni trimestre direttamente al team che lavora con il cliente. Nel caso in cui un cliente non adempia a questo accordo, la clausola prevede il riconoscimento della somma “scontata” che verrà utilizzata da mondora, in maniera trasparente, per finanziare un altro progetto ad impatto. 
 
 ### Impact Business Developer
 
