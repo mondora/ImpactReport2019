@@ -14,7 +14,7 @@ Il premio Changemakers viene riconosciuto alle aziende che hanno migliorato magg
 
 Il conferimento di questo premio è dovuto principalmente alla struttura organizzativa di mondora, il self management e il metodo decisionale. In mondora infatti le decisioni vengono prese in accordo tra colleghi, avvalendosi della piattaforma Loomio che permette di aprire delle discussioni e confrontarsi, in modo tale da coinvolgere attivamente tutta l'azienda, compresi i colleghi che lavorano da remoto.
 
-* community
+* community --> Nel 2019 mondora è stata riconosciuta tra le aziende che portano impatto positivo anche nella sezione community. Questo premio è stato conferito per il continuo impegno sul territorio e la comunità locale, in particolare per i progetti HireBitto, Minicoder ed inoltre per i contadini che mantengono e salvaguardano il territorio dell'azienda. 
 * overall
 
 ## Press e interventi a conferenze:
