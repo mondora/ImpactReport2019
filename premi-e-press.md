@@ -16,11 +16,11 @@ Il conferimento di questo premio è dovuto principalmente alla struttura organiz
 
 **Community**
 
-Nel 2019 mondora è stata riconosciuta per la prima volta tra le aziende che portano impatto positivo anche nella sezione community. Questo premio è stato conferito per il continuo impegno sul territorio e la comunità locale, in particolare per i progetti HireBitto, Minicoder ed inoltre per i contadini che mantengono e salvaguardano il territorio dell'azienda. 
+Nel 2019 mondora è stata riconosciuta per la prima volta tra le aziende che portano impatto positivo anche nella sezione community. Questo premio è stato conferito per il continuo impegno sul territorio e la comunità locale, in particolare per i progetti HireBitto e Minicoder, per i laboratori artistici ed inoltre per i nostri agricoltori che mantengono e salvaguardano il territorio dell'azienda. 
 
 **Overall**
 
-Il conferimento del premio Best For The World Overall è dovuto in particolar modo al progetto Cycle2Work, alla possibilità di formazione continua ed inoltre agli accordi di interdipendenza che vengono stabiliti con i clienti di mondora.
+mondora ha ricevuto il riconoscimento Best For The World Overall grazie all'impegno costante verso tutte le aree del B Impact Assessment e i Sustainable Development Goals delle Nazioni Unite. Tra le pratiche più incisive citiamo gli Accordi di Interdipendenza e la cura dei dipendenti, dall'aiuto nella realizzazione di progetti individuali ad impatto, alle opportunità di formazione, al self management. 
 
 
 ## Press e interventi a conferenze:
