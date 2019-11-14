@@ -16,6 +16,10 @@ Anche quest’anno mondora ha stipulato degli Accordi di Interdipendenza con i p
 
 ### Impact Business Developer
 
+mondora ha scelto di correlare l’acquisizione di nuovi clienti alla creazione di impatto positivo, per generare un circolo virtuoso tra new business e benefit fin dal primo contatto ed ha quindi identificato la figura di Impact Business Developer, un’evoluzione del commerciale che non propone solo un prodotto o un servizio ma, soprattutto, la nostra visione del mondo come posto migliore e uno scopo che vada oltre il singolo progetto.
+
+L’Impact Business Developer ha quindi il compito di individuare e selezionare i prospect più sensibili al tema dell’impatto e creare insieme a loro nuovi Accordi di Interdipendenza che permettono di ampliare la visione aziendale ed estendere il network di aziende sensibili ai temi che impattano la nostra società.
+
 ## Valutazione dell'impatto
 
 I nostri clienti, fornitori, collaboratori e tutte le persone con cui abbiamo condiviso delle attività nel 2019 sono state impattate positivamente attraverso gli incontri Food4Thought (quanti??) e gli 11 Accordi di Interdipendenza attualmente attivi. Gli incontri e gli accordi sono direttamente ispirati agli SDG 9 ( 9.5), 12 (12.6, 12.7, 12.8), 16 (16.6) e 17 (17.14, 17.17) e si focalizzano principalmente sulla creazione di partnership durature e sulla collaborazione tra più parti per il raggiungimento di obiettivi di benefit molto più ampi di quelli che potremmo raggiungere lavorando da soli. 
