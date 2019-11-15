@@ -20,7 +20,7 @@ Per ogni giornata di volontariato svolta al di fuori dell'azienda, mondora conce
 
 ## Valutazione dell'Impatto
 
-Come stakeholder, la comunità è stata impattata positivamente attraverso i 570 (?) bambini che hanno partecipato alle attività didattiche MiniCoder insegnate dai dipendenti di mondora e dalle 270 (?) ore di volontariato totali effettuate sia tramite l’azienda che personalmente. La comunità ha inoltre beneficiato del valore delle 41 (?) forme di Storico Ribelle acquistate tramite il progetto HireBitto. 
+Come stakeholder, la comunità è stata impattata positivamente attraverso i 570 bambini che hanno partecipato alle attività didattiche MiniCoder insegnate dai dipendenti di mondora e dalle 270 ore di volontariato totali effettuate sia tramite l’azienda che personalmente. La comunità ha inoltre beneficiato del valore delle 43 forme di Storico Ribelle acquistate tramite il progetto HireBitto. 
 
 Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti a ??? e le giornate didattiche ….. (Alessia)
 
