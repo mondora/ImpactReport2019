@@ -18,8 +18,6 @@ Cycle2Work è un progetto benefit di mondora che premia i dipendenti che si reca
 
 mondora è da sempre un'azienda paper free: in ufficio non viene utilizzata la carta e non ci sono le stampanti. I dipendenti hanno a disposizione delle agende RockBooks, fatte di carta di roccia prodotta con il minor dispendio di risorse e minor inquinamento rispetto alla carta tradizionale. L’azienda aiuta anche i propri clienti a misurare i fogli di carta risparmiati grazie alla digitalizzazione, fornendo un software in grado di monitorare i consumi. Inoltre da ormai due anni mondora ha aderito ad una campagna internazionale contro l'utilizzo della plastica usa e getta tramite l'acquisto di borracce Dopper per ogni dipendente, eliminando così la plastica dagli uffici. mondora promuove queste pratiche anche all'esterno, presso i clienti e le istituzioni, come ad esempio nelle scuole locali Valtellinesi.
 
-### Spluga
-
 ## Valutazione dell'Impatto
 
 L’ambiente come stakeholder ha beneficiato delle azioni ad impatto di mondora attraverso le policy di Paper Free e Plastic Free Workplace che hanno permesso la quasi totale eliminazione di questi due prodotti sul luogo di lavoro, contribuendo ai Sustainable Development Goals 12 (12.5, 12.6, 12.8), 14 (14.1) e 15 (15.2). Inoltre, grazie al programma Cycle2Work l’azienda ha ridotto di xx kg (?) le emissioni di co2 per i viaggi casa-lavoro dei propri dipendenti, ispirata dagli SDG 12 (12.6, 12.8, 12.b) e 13 (13.3). 
