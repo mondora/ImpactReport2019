@@ -26,7 +26,8 @@ Un grosso problema affligge la nostra società: molte persone soffrono di un dis
 
 ### Corsi di Formazione
 
-### 4to5
+### 4to5 mondora promuove la condivisione della conoscenza di ogni persona all’interno dell’azienda, incoraggiandole ad organizzare 4to5 ovvero degli incontri di 1 ora aperti a tutti, in cui chi vuole può insegnare qualcosa ai colleghi, sia in ambito tecnologico che non. Principalmente questi incontri si tengono il giovedì pomeriggio dalle 16.00 alle 17.00, da questo il nome 4to5. Nel 2019 i 4to5 sono aumentati rispetto allo scorso anno; contiamo infatti.. 
+
 
 ### Failure Party
 
