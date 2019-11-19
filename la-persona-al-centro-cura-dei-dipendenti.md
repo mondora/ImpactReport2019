@@ -24,7 +24,9 @@ Un grosso problema affligge la nostra società: molte persone soffrono di un dis
 
 (orario flessibile, lavoro da remoto, decisioni su loomio, organizzazione in team)
 
-### Corsi di Formazione
+### Corsi di Formazione  
+mondora offre ai propri dipendenti opportunità di formazione continue nel tempo, per incentivare la crescita professionale e personale, sia in Italia che all’estero, questo perché crede che l’azienda sia il luogo in cui accrescere le proprie conoscenze. 
+Nel 2019 i lavoratori hanno beneficiato di 93 giornate formative. 
 
 ### 4to5
 
