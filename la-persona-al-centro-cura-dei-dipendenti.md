@@ -44,6 +44,9 @@ Una pratica ormai consolidata è quella della misurazione della felicità dei di
 
 ### Meditazione
 
+Ogni mattina, prima di iniziare la giornata lavorativa, un gruppo di dipendenti mondora si trova - fisicamente e virtualmente - per meditare. L'approccio è fortemente laico e scientifico, l'obbiettivo è quello di sviluppare la spiritualità e la presenza di chi ne senta il bisogno. L'attività è gestita tra pari, a seconda delle persone partecipanti si decide per utilizzare meditazioni guidate di terze parti o semplicemente sedersi in silenzio tutti insieme lavorando a un focus condiviso. Capita che clienti o famigliari dei dipendenti si uniscano alla meditazione. Le sessioni durano tra i 10 e i 20 minuti, dopo la meditazione chi vuole può condividere delle intuizioni o dei pensieri. 
+Per gestire la logistica degli incontri si utilizza un canale slack apposito #mente-vuota che fa anche da strumento per eventuali confronti o condivisioni di materiale.
+
 ## Valutazione dell'impatto
 
 I dipendenti sono lo stakeholder principale verso cui è rivolto l’impatto aziendale prodotto attraverso le attività sopra descritta. Le pratiche aziendali hanno impattato tutti i 63 dipendenti dell’azienda, che hanno partecipato alle varie attività quali laboratori e corsi di formazione, 4to5, failure party e ore di meditazione. In particolare i dipendenti hanno beneficiato di 42 giornate totali di formazione sul lavoro. I dipendenti hanno inoltre lavorato con flessibilità di luogo e orario, ed hanno potuto portare avanti i loro progetti di impatto individuale all’interno dell’azienda. Infine, l’importanza della trasparenza come valore aziendale e l’applicazione del self management hanno permesso a tutti i dipendenti di partecipare collettivamente nelle decisioni aziendali e influenzare l’andamento delle operazioni strategiche. 
