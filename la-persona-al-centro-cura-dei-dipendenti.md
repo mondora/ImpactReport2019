@@ -46,6 +46,7 @@ Una pratica ormai consolidata è quella della misurazione della felicità dei di
 
 Ogni mattina, prima di iniziare la giornata lavorativa, un gruppo di dipendenti mondora si trova - fisicamente e virtualmente - per meditare. L'approccio è fortemente laico e scientifico, l'obbiettivo è quello di sviluppare la spiritualità e la presenza di chi ne senta il bisogno. L'attività è gestita tra pari, a seconda delle persone partecipanti si decide per utilizzare meditazioni guidate di terze parti o semplicemente sedersi in silenzio tutti insieme lavorando a un focus condiviso. Capita che clienti o famigliari dei dipendenti si uniscano alla meditazione. Le sessioni durano tra i 10 e i 20 minuti, dopo la meditazione chi vuole può condividere delle intuizioni o dei pensieri. 
 Per gestire la logistica degli incontri si utilizza un canale slack apposito #mente-vuota che fa anche da strumento per eventuali confronti o condivisioni di materiale.
+Questa iniziativa è in linea con il principio di sviluppo dell'individuo portato avanti in mondora e ha il potenziale di impattare fortemente tutte le sfere della vita dei partecipanti.
 
 ## Valutazione dell'impatto
 
