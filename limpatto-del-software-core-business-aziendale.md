@@ -20,6 +20,11 @@ Inoltre, l’azienda crede fermamente che l’impatto va sempre misurato nel tem
 
 ### Open Source
 
+Il mondo del software libero è ed è sempre stato centrale in azienda, sia come contributori che come fruitori. Sull'account github di mondora è presente il sorgente di svariati tools sviluppati internamente, da librerie javascript a strumenti per dev-ops. Inoltre molti dipendenti hanno anche una prolifica attività personale nel mondo open, grazie anche a una cultura aziendale che spinge alla condivisione. 
+Quando sviluppa per terze parti, l'azienda fa sempre molta pressione ai committenti per rilasciare il codice open source, anche tramite logiche di riduzione del prezzo. 
+Gran parte dei software sviluppati sono inoltre basati su soluzioni open source, alle quali mondora contribuisce tramite segnalazioni di problemi e piccoli bugfix.
+
+
 ### Spluga
 
 Attraverso Spluga, un software di mondora, è possibile monitorare e misurare svariati aspetti del proprio impatto nelle operazioni di tutti i giorni. Questo software viene utilizzato in azienda per tenere traccia di metriche come la CO2 risparmiata tramite i viaggi in bicicletta o con altri mezzi green, i fogli di carta non stampati grazie alla digitalizzazione, le ore di formazione fatte dai dipendenti, la felicità delle persone e molto altro. Alcuni obiettivi e valori vengono tracciati automaticamente tramite API, mentre altri vengono creati direttamente dai dipendenti (ad esempio per monitorare l’impatto personale in azienda) e i dati sono inseriti manualmente. Spluga permette di visualizzare i dati aggregati di tutti i partecipanti per avere una panoramica dell’impatto totale prodotto dall’azienda e dalle persone che la compongono. 
