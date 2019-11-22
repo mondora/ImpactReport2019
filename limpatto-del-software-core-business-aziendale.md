@@ -21,7 +21,7 @@ Inoltre, l’azienda crede fermamente che l’impatto va sempre misurato nel tem
 ### Open Source
 
 Il mondo del software libero è ed è sempre stato centrale in azienda, sia come contributori che come fruitori. Sull'account github di mondora è presente il sorgente di svariati tools sviluppati internamente, da librerie javascript a strumenti per dev-ops. Inoltre molti dipendenti hanno anche una prolifica attività personale nel mondo open, grazie anche a una cultura aziendale che spinge alla condivisione. 
-Quando sviluppa per terze parti, l'azienda fa sempre molta pressione ai committenti per rilasciare il codice open source, anche tramite logiche di riduzione del prezzo. 
+Quando sviluppa per terze parti, l'azienda si impegna a far comprendere ai committenti i benefici e le potenzialità del rilascio di codice open source, anche tramite logiche di riduzione del prezzo. 
 Gran parte dei software sviluppati sono inoltre basati su soluzioni open source, alle quali mondora contribuisce tramite segnalazioni di problemi e piccoli bugfix.
 
 
