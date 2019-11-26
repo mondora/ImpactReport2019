@@ -10,16 +10,19 @@ Mondora è un'azienda con gerarchia piatta, il che significa che non ci sono man
 
 Un grosso problema affligge la nostra società: molte persone soffrono di un disturbo mentale e non ne parlano. Secondi i dati dello studio “Global burden of disease”, infatti circa il 13% della popolazione mondiale, più o meno 971 milioni di persone, è afflitto da una forma di disturbo mentale. L’associazione benefica britannica Mind cita una statistica secondo cui una persona su quattro, ogni anno, soffrirà di una qualche forma di malattia mentale. Negli USA, la depressione provoca ogni anno la perdita di 400 milioni di giorni lavorativi. In UK, 91 milioni. Ma, secondo il Center for Workplace Health degli USA, l’80% dei lavoratori è ostacolato dal richiedere il giusto trattamento dalla vergogna e lo stigma associati alla depressione. Frequenti in chi non riesce a chiede aiuto sono poi l’auto medicazione tramite alcool e droghe, che intensificano ulteriormente il problema. Diversi studi hanno dimostrato che le organizzazioni che prestano un’attenzione particolare alla salute mentale riportino migliori performance, engagement, minore turn over ed, in generale, maggior benessere. Infatti, il primo passo per migliorare la condizione di chi soffre di un disturbo mentale è l’ammettere di avere un problema e chiedere aiuto. Ma questo si può fare solo in un contesto che permetta di esprimere la propria fragilità e non neghi l’esistenza di problemi così ampiamente documentati. Per questi motivi abbiamo deciso di tenere degli incontri dove parlare di salute mentale e fare prevenzione. Il tema della sofferenza mentale, poi è diventato anche lo spunto per riflettere sui meccanismi sociali malati \(regole rotte\) che sostengono il generarsi di questa sofferenza e trovare delle soluzioni per rendere il nostro contesto più resiliente.
 
-### paracadute,
-Coltivare i talenti e incentivare la crescita personale è un messaggio che sento vivo in mondora.
+### Paracadute
+
+Coltivare i talenti e incentivare la crescita personale è un messaggio molto vivo in mondora.
 Se questo significa poter fare esperienze non solo su diversi progetti intra-aziendali, ma in aziende stesse, perchè no? Si può valutare anche questa strada.
 Per mantenere sereno e armonioso questo percorso di crescita personale è nata l’idea del Paracadute, che consiste nell’offrire alla persona che vuole sperimentare all’esterno di mondora la possibilità di tornare in azienda entro un anno alle stesse condizioni economiche del momento dell’uscita, con possibilità di cambio di mansione. Questa opzione viene data se almeno il 10% dei colleghi sono d’accordo nel concederla.
 
-### banca del tempo
-Il mutuo aiuto è uno di quei valori che da sempre fortifica le relazioni umane, in qualsiasi parte del mondo ci si trovi, poichè i bisogni sono gli stessi per tutte le persone. Ci fa sentire più vicini gli uni agli altri e guidati da propositi animici e spirituali.  All’interno della azienda ci siamo chiesti come sostenere, anche a livello economico, i colleghi in situazioni di momentanea difficoltà, per aiutarli a conciliare la vita privata con la vita lavorativa; nasce da qui la banca solidale. Si tratta di un sostegno tra colleghi, che consiste nel fatto che chi lo desidera può volontariamente e in maniera anonima far confluire ore di straordinario o di permesso o un massimo di 5gg di ferie all’anno, che vengono monetizzate ed utilizzate per sostenere altri colleghi in caso di necessità particolari (es legate alla propria salute o a quella di un familiare)
-### impatto individuale
+### Banca del Tempo
 
-### altro?
+Il mutuo aiuto è uno di quei valori che da sempre fortifica le relazioni umane, in qualsiasi parte del mondo ci si trovi, poichè i bisogni sono gli stessi per tutte le persone. Ci fa sentire più vicini gli uni agli altri e guidati da propositi animici e spirituali.  All’interno della azienda ci siamo chiesti come sostenere, anche a livello economico, i colleghi in situazioni di momentanea difficoltà, per aiutarli a conciliare la vita privata con la vita lavorativa; nasce da qui la banca solidale. Si tratta di un sostegno tra colleghi, che consiste nel fatto che chi lo desidera può volontariamente e in maniera anonima far confluire ore di straordinario o di permesso o un massimo di 5gg di ferie all’anno, che vengono monetizzate ed utilizzate per sostenere altri colleghi in caso di necessità particolari (es legate alla propria salute o a quella di un familiare)
+
+### Impatto Individuale
+
+
 
 ## Attività consolidate
 
@@ -28,15 +31,16 @@ Il mutuo aiuto è uno di quei valori che da sempre fortifica le relazioni umane,
 (orario flessibile, lavoro da remoto, decisioni su loomio, organizzazione in team)
 
 ### Corsi di Formazione  
-mondora offre ai propri dipendenti opportunità di formazione continue nel tempo, per incentivare la crescita professionale e personale, sia in Italia che all’estero, questo perché crede che l’azienda sia il luogo in cui accrescere le proprie conoscenze. 
-Nel 2019 i lavoratori hanno beneficiato di 93 giornate formative. 
 
-### 4to5 mondora promuove la condivisione della conoscenza di ogni persona all’interno dell’azienda, incoraggiandole ad organizzare 4to5 ovvero degli incontri di 1 ora aperti a tutti, in cui chi vuole può insegnare qualcosa ai colleghi, sia in ambito tecnologico che non. Principalmente questi incontri si tengono il giovedì pomeriggio dalle 16.00 alle 17.00, da questo il nome 4to5. Nel 2019 i 4to5 sono aumentati rispetto allo scorso anno; contiamo infatti.. 
+mondora offre ai propri dipendenti opportunità di formazione continue nel tempo, per incentivare la crescita professionale e personale, sia in Italia che all’estero, perché crede che l’azienda sia il luogo adatto in cui accrescere le proprie conoscenze. Nel 2019 i lavoratori hanno beneficiato in totale di 93 giornate formative che hanno contribuito a migliorare il livello di conoscenza e le skill disponibili in azienda. 
 
+### 4to5 
+
+mondora promuove la condivisione della conoscenza di ogni persona all’interno dell’azienda, incoraggiando i dipendenti ad organizzare dei *4to5*, degli incontri di un' ora aperti a tutti, in cui chi vuole può insegnare qualcosa ai colleghi, sia in ambito tecnologico che non. Principalmente questi incontri si tengono il giovedì pomeriggio dalle 16.00 alle 17.00, da questo il nome 4to5. Nel 2019 i 4to5 sono aumentati rispetto allo scorso anno; contiamo infatti 18 eventi con una media di 10 partecipanti ad evento. 
 
 ### Failure Party
 
-L'azienda incentiva l'apprendimento e il progresso del singolo, dando così la possibilità di fare errori per poi migliorarsi, perchè crede che le persone non imparano dai successi ma dagli errori. Per questo motivo è stata introdotta la pratica del failure party che consiste nella celebrazione dei fallimenti, una vera e propria festa, un modo per capire ciò che si è sbagliato, per far si che in futuro si possa solo che migliorare.
+L'azienda incentiva l'apprendimento e il progresso del singolo, dando così la possibilità di fare errori per poi migliorarsi, perchè crede che le persone non imparano dai successi ma dagli errori. Per questo motivo è stata introdotta la pratica del failure party che consiste nella celebrazione dei fallimenti:festeggiare un fallimento è il modo migliore per non colpevolizzare un individuo, ma analizzare insieme cosa non ha funzionato nell’ecosistema e imparare in modo collettivo dall’errore commesso.
 
 ### New Opportunities Project
 
