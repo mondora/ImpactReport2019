@@ -6,6 +6,8 @@
 
 ### Laboratori di Arte
 
+Nell'ottica del suo progetto di impatto personale, Irene, una nuova collega, ha deciso di organizzare un progetto volto all'integrazione di persone in stato di emarginazione, tramite l'utilizzo dell'arte. Il progetto prevede la realizzazione di alcune ore di laboratorio artistico utilizzando la tecnica della pittura su legno.  Il progetto coinvolge una decina di ragazzi seguiti dal Centro Psico Sociale di Sondrio e una decina di impiegati di mondora. In ogni sessione vengono realizzate alcune opere sotto il supporto di Irene, all'interno dell'ufficio di mondora. Lo scopo del progetto è da un lato combattere lo stigma e l'emarginazione legata ai disturbi mentali, dall'altro portare in azienda l'arte come espressione e sviluppo della propria parte più profonda. Scopo finale del progetto, che si articolerà in circa 7 incontri da settembre 2019 a marzo 2020, sarà organizzare una piccola mostra o serata di presentazione all'interno dell'ufficio, coinvolgendo i colleghi e sensibilizzandoli sul tema della salute mentale.
+
 ## Attività consolidate
 
 ### MiniCoder
@@ -22,7 +24,7 @@ Per ogni giornata di volontariato svolta al di fuori dell'azienda, mondora conce
 
 Come stakeholder, la comunità è stata impattata positivamente attraverso i 570 bambini che hanno partecipato alle attività didattiche MiniCoder insegnate dai dipendenti di mondora e dalle 270 ore di volontariato totali effettuate sia tramite l’azienda che personalmente. La comunità ha inoltre beneficiato del valore delle 43 forme di Storico Ribelle acquistate tramite il progetto HireBitto. 
 
-Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti a ??? e le giornate didattiche ….. (Alessia)
+Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti ai ragazzi seguiti dal Centro Psico Sociale di Sondrio, e le giornate didattiche ….. (Alessia)
 
 mondora ha cercato di lavorare per la comunità contribuendo ai Sustainable Development Goals 4 - Quality Education (4.4, 4.5, 4.7, 4.a), 8 - Decent Work and Economic Growth (8.2), 10 - Reduced Inequalities (10.2), 12 - Responsible Consumption and Production (12.2), 15 - Life on Land (15.1). In particolare, nel progetto MiniCoder i dipendenti si sono focalizzati sul goal 4, 8 e 10, mentre il progetto HireBitto ha utilizzato i goal 8, 10, 12 e 15 come guida. 
 
