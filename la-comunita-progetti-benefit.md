@@ -2,7 +2,11 @@
 
 ## Nuove attività 2019
 
-### progetto Alessia nelle scuole
+### Progetto Scuola Sirta
+
+
+Sto leggendo un libro che si intitola ‘I bambini pensano grande’, una esperienza di un insegnante che ha condotto alla 5 elementare una classe di bambini coi quali ha sperimentato quanto il pensiero sia vivo e in evoluzione.
+Mi piace l’idea di collaborare con le scuole, assumendomi la responsabilità di genitore e di adulto nell’educare dei bambini in collaborazione con i maestri. Mi piace l’idea di cocreare progetti scolastici che permettano di evidenziare l’inestimabile valore delle piccole scuole di paese. Credo che questo pensiero e questi sentimenti siamo alla base del coinvolgimento di :m nelle scuole
 
 ### Laboratori di Arte
 
@@ -24,7 +28,7 @@ Per ogni giornata di volontariato svolta al di fuori dell'azienda, mondora conce
 
 Come stakeholder, la comunità è stata impattata positivamente attraverso i 570 bambini che hanno partecipato alle attività didattiche MiniCoder insegnate dai dipendenti di mondora e dalle 270 ore di volontariato totali effettuate sia tramite l’azienda che personalmente. La comunità ha inoltre beneficiato del valore delle 43 forme di Storico Ribelle acquistate tramite il progetto HireBitto. 
 
-Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti ai ragazzi seguiti dal Centro Psico Sociale di Sondrio, e le giornate didattiche ….. (Alessia)
+Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti ai ragazzi seguiti dal Centro Psico Sociale di Sondrio, e le giornate didattiche svolte alla scuola elementare Sirta. 
 
 mondora ha cercato di lavorare per la comunità contribuendo ai Sustainable Development Goals 4 - Quality Education (4.4, 4.5, 4.7, 4.a), 8 - Decent Work and Economic Growth (8.2), 10 - Reduced Inequalities (10.2), 12 - Responsible Consumption and Production (12.2), 15 - Life on Land (15.1). In particolare, nel progetto MiniCoder i dipendenti si sono focalizzati sul goal 4, 8 e 10, mentre il progetto HireBitto ha utilizzato i goal 8, 10, 12 e 15 come guida. 
 
