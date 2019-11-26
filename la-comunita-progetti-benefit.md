@@ -4,9 +4,10 @@
 
 ### Progetto Scuola Sirta
 
+Attraverso il contributo di due colleghe, Lucia ed Alessia, mondora ha contribuito allo svolgimento di un progetto formativo sull'economia circolare all'interno della scuola elementare locale Sirta. Il progetto prevedeva di seguire tutto il percorso di un albero, dal taglio, alla lavorazione del legno, all'utilizzo dei materiali per poi concludere con la semina di nuove piante. Questo per insegnare ai bambini in che modo l'economia può essere sostenibile. Queste le parole di Lucia dopo aver contribuito a questa esperienza:
 
-Sto leggendo un libro che si intitola ‘I bambini pensano grande’, una esperienza di un insegnante che ha condotto alla 5 elementare una classe di bambini coi quali ha sperimentato quanto il pensiero sia vivo e in evoluzione.
-Mi piace l’idea di collaborare con le scuole, assumendomi la responsabilità di genitore e di adulto nell’educare dei bambini in collaborazione con i maestri. Mi piace l’idea di cocreare progetti scolastici che permettano di evidenziare l’inestimabile valore delle piccole scuole di paese. Credo che questo pensiero e questi sentimenti siamo alla base del coinvolgimento di :m nelle scuole
+>Sto leggendo un libro che si intitola ‘I bambini pensano grande’, una esperienza di un insegnante che ha condotto alla 5 >elementare una classe di bambini coi quali ha sperimentato quanto il pensiero sia vivo e in evoluzione.
+>Mi piace l’idea di collaborare con le scuole, assumendomi la responsabilità di genitore e di adulto nell’educare dei bambini >in collaborazione con i maestri. Mi piace l’idea di cocreare progetti scolastici che permettano di evidenziare l’inestimabile >valore delle piccole scuole di paese. Credo che questo pensiero e questi sentimenti siamo alla base del coinvolgimento di :m >nelle scuole
 
 ### Laboratori di Arte
 
