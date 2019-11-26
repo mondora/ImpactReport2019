@@ -4,8 +4,6 @@
 
 ### ampliamento organico contadini
 
-### attività scuola sirta?
-
 ## Attività consolidate
 
 ### Agricoltura
