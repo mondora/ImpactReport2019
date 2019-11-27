@@ -42,7 +42,7 @@ L’impatto che mondora produce attraverso il software si può suddividere in:
 * Misurazione e condivisione dell’impatto del software: SDG 12 (12.6), 13 (13.3), 17 (17.14)
 * Utilizzo di server green: SDG 7 (7.a)
 
-L’azienda può migliorare l’impatto del proprio core business aumentando l’attenzione verso persone e ambiente nella propria supply chain (fornitura internet e PC), ampliando il numero di soluzioni software accessibili, creando ogni nuovo software seguendo i principi di *benefit by design*, ponendo maggior attenzione alla gender equality nelle proprie operazioni, dalla scelta dei fornitori al design di una piattaforma. I Sustainable Development Goals a cui ispirarsi per migliorare le proprie operazioni sono il 4, 5, 9, 13.
+L’azienda può migliorare l’impatto del proprio core business aumentando l’attenzione verso persone e ambiente nella propria supply chain (fornitura internet e PC), ampliando il numero di soluzioni software accessibili, creando ogni nuovo software seguendo i principi di *impact by design*, ponendo maggior attenzione alla gender equality nelle proprie operazioni, dalla scelta dei fornitori al design di una piattaforma. I Sustainable Development Goals a cui ispirarsi per migliorare le proprie operazioni sono il 4, 5, 9, 13.
 
 ### SDG e Subgoals citati
 
