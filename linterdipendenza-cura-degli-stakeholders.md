@@ -6,7 +6,7 @@
 
 Nel 2019 mondora ha introdotto un evento ricorrente chiamato Food4Thought che ha lo scopo di tessere nuovi legami tra gli stakeholders dell’azienda e costruire insieme nuove relazioni ed opportunità di collaborazione volte alla creazione congiunta di impatto positivo nel mondo.
 
-Food4Thought è quindi una serie di eventi in cui degli ospiti selezionati trattano vari temi, quali intelligenza artificiale, inclusione, accessibilità, mobilità sostenibile e altro. L’incontro è formato dallo speech di un esperto dell’argomento trattato, seguito da un dibattito tra gli ospiti. Dopo il dibattito si passa ad un pranzo a tema, in cui ad ogni incontro viene rappresentata la cultura di un diverso paese , raccontata attraverso la storia dei cibi che sono stati preparati. Il senso di questi incontri sta proprio nella condivisione di idee e buone pratiche che possono essere d’ispirazione alle aziende. 
+Food4Thought è una serie di eventi in cui degli ospiti selezionati trattano vari temi, quali intelligenza artificiale, inclusione, accessibilità, mobilità sostenibile e altro. L’incontro è formato dallo speech di un esperto dell’argomento trattato, seguito da un dibattito tra gli ospiti. Dopo il dibattito si passa ad un pranzo a tema, in cui ad ogni incontro viene rappresentata la cultura di un diverso paese , raccontata attraverso la storia dei cibi che sono stati preparati. Il senso di questi incontri sta proprio nella condivisione di idee e buone pratiche che possono essere d’ispirazione alle aziende. 
 
 ## Attività consolidate
 
