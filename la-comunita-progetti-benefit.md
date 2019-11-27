@@ -14,7 +14,19 @@ Nell'ottica del suo progetto di impatto personale, Irene, una nuova collega, ha 
 
 ## Attività consolidate
 
-### MiniCoder
+### Minicoder
+
+Minicoder è un progetto di volontariato aziendale di co-creazione con gli utenti finali di un bene comune di cui la comunità può usufruire.
+L’idea è nata nel 2016, ma solo nell’aprile del 2018 è andata “live”.
+Ad oggi è stato erogato a circa 570 bambini, divisi su 10 scuole, che hanno partecipato ad uno o più incontri.
+Gli obiettivi di minicoder sono:
+* Produrre una visione sistemica che colleghi i bambini con il mondo pratico attraverso i canali digitali.
+* Creare una biblioteca virtuale di codice condivisa tra le scuole della Valtellina/Valchiavenna formata da progetti fatti dai bambini per i bambini
+* Far sì che le classi superiori creino il software che le classi inferiori utilizzano in modo da avere un flusso virtuoso di *continuous learning*
+* Educare i docenti all’utilizzo di strumenti alternativi per la didattica e far sì che siano loro i primi attori a portare avanti il progetto (scaling)
+* Coprire tutto il corso di studi con progetti misurati all’età degli studenti (dapprima tramite veri e propri giochi fino ad arrivare all’utilizzo di Scratch per gli algoritmi più complessi)
+
+Siccome la richiesta nell’anno scolastico precedente è stata molto elevata, quest’anno si è deciso di creare una sorta di “eco-concorso” tra le scuole che si basi su azioni misurabili e che premi le classi più virtuose con i corsi di minicoder. (es: riduzione dell’utilizzo di carta, Classi “PET free”, adozione di un sentiero). L’unica regola è che qualsiasi progetto scelto sia misurabile nell’impatto e che sia non una tantum ma un impegno reale.
 
 ### HireBitto
 
