@@ -70,3 +70,4 @@ L’azienda desidera aumentare il suo impegno anche verso l’SDG 5 - Gender Equ
 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements
 
 https://sustainabledevelopment.un.org/sdgs
+
