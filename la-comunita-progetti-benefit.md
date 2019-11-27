@@ -6,12 +6,11 @@
 
 Attraverso il contributo di due colleghe, Lucia ed Alessia, mondora ha contribuito allo svolgimento di un progetto formativo sull'economia circolare all'interno della scuola elementare locale Sirta. Il progetto prevedeva di seguire tutto il percorso di un albero, dal taglio, alla lavorazione del legno, all'utilizzo dei materiali per poi concludere con la semina di nuove piante. Questo per insegnare ai bambini in che modo l'economia può essere sostenibile. Queste le parole di Lucia dopo aver contribuito a questa esperienza:
 
->Sto leggendo un libro che si intitola ‘I bambini pensano grande’, una esperienza di un insegnante che ha condotto alla 5 elementare una classe di bambini coi quali ha sperimentato quanto il pensiero sia vivo e in evoluzione.
-Mi piace l’idea di collaborare con le scuole, assumendomi la responsabilità di genitore e di adulto nell’educare dei bambini in collaborazione con i maestri. Mi piace l’idea di cocreare progetti scolastici che permettano di evidenziare l’inestimabile valore delle piccole scuole di paese. Credo che questo pensiero e questi sentimenti siamo alla base del coinvolgimento di :m nelle scuole
+> Sto leggendo un libro che si intitola ‘I bambini pensano grande’, una esperienza di un insegnante che ha condotto alla 5 elementare una classe di bambini coi quali ha sperimentato quanto il pensiero sia vivo e in evoluzione. Mi piace l’idea di collaborare con le scuole, assumendomi la responsabilità di genitore e di adulto nell’educare dei bambini in collaborazione con i maestri. Mi piace l’idea di cocreare progetti scolastici che permettano di evidenziare l’inestimabile valore delle piccole scuole di paese. Credo che questo pensiero e questi sentimenti siamo alla base del coinvolgimento di :m nelle scuole
 
 ### Laboratori di Arte
 
-Nell'ottica del suo progetto di impatto personale, Irene, una nuova collega, ha deciso di organizzare un progetto volto all'integrazione di persone in stato di emarginazione, tramite l'utilizzo dell'arte. Il progetto prevede la realizzazione di alcune ore di laboratorio artistico utilizzando la tecnica della pittura su legno.  Il progetto coinvolge una decina di ragazzi seguiti dal Centro Psico Sociale di Sondrio e una decina di impiegati di mondora. In ogni sessione vengono realizzate alcune opere sotto il supporto di Irene, all'interno dell'ufficio di mondora. Lo scopo del progetto è da un lato combattere lo stigma e l'emarginazione legata ai disturbi mentali, dall'altro portare in azienda l'arte come espressione e sviluppo della propria parte più profonda. Scopo finale del progetto, che si articolerà in circa 7 incontri da settembre 2019 a marzo 2020, sarà organizzare una piccola mostra o serata di presentazione all'interno dell'ufficio, coinvolgendo i colleghi e sensibilizzandoli sul tema della salute mentale.
+Nell'ottica del suo progetto di impatto personale, Irene, una nuova collega, ha deciso di organizzare un progetto volto all'integrazione di persone in stato di emarginazione, tramite l'utilizzo dell'arte. Il progetto prevede la realizzazione di alcune ore di laboratorio artistico utilizzando la tecnica della pittura su legno. Il progetto coinvolge una decina di ragazzi seguiti dal Centro Psico Sociale di Sondrio e una decina di impiegati di mondora. In ogni sessione vengono realizzate alcune opere sotto il supporto di Irene, all'interno dell'ufficio di mondora. Lo scopo del progetto è da un lato combattere lo stigma e l'emarginazione legata ai disturbi mentali, dall'altro portare in azienda l'arte come espressione e sviluppo della propria parte più profonda. Scopo finale del progetto, che si articolerà in circa 7 incontri da settembre 2019 a marzo 2020, sarà organizzare una piccola mostra o serata di presentazione all'interno dell'ufficio, coinvolgendo i colleghi e sensibilizzandoli sul tema della salute mentale.
 
 ## Attività consolidate
 
@@ -27,13 +26,13 @@ Per ogni giornata di volontariato svolta al di fuori dell'azienda, mondora conce
 
 ## Valutazione dell'Impatto
 
-Come stakeholder, la comunità è stata impattata positivamente attraverso i 570 bambini che hanno partecipato alle attività didattiche MiniCoder insegnate dai dipendenti di mondora e dalle 270 ore di volontariato totali effettuate sia tramite l’azienda che personalmente. La comunità ha inoltre beneficiato del valore delle 43 forme di Storico Ribelle acquistate tramite il progetto HireBitto. 
+Come stakeholder, la comunità è stata impattata positivamente attraverso i 570 bambini che hanno partecipato alle attività didattiche MiniCoder insegnate dai dipendenti di mondora e dalle 270 ore di volontariato totali effettuate sia tramite l’azienda che personalmente. La comunità ha inoltre beneficiato del valore delle 43 forme di Storico Ribelle acquistate tramite il progetto HireBitto.
 
-Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti ai ragazzi seguiti dal Centro Psico Sociale di Sondrio, e le giornate didattiche svolte alla scuola elementare Sirta. 
+Tra le novità del 2019, la comunità ha potuto sperimentare i Laboratori Artistici organizzati da una collega e rivolti ai ragazzi seguiti dal Centro Psico Sociale di Sondrio, e le giornate didattiche svolte alla scuola elementare Sirta.
 
-mondora ha cercato di lavorare per la comunità contribuendo ai Sustainable Development Goals 4 - Quality Education (4.4, 4.5, 4.7, 4.a), 8 - Decent Work and Economic Growth (8.2), 10 - Reduced Inequalities (10.2), 12 - Responsible Consumption and Production (12.2), 15 - Life on Land (15.1). In particolare, nel progetto MiniCoder i dipendenti si sono focalizzati sul goal 4, 8 e 10, mentre il progetto HireBitto ha utilizzato i goal 8, 10, 12 e 15 come guida. 
+mondora ha cercato di lavorare per la comunità contribuendo ai Sustainable Development Goals 4 - Quality Education \(4.4, 4.5, 4.7, 4.a\), 8 - Decent Work and Economic Growth \(8.2\), 10 - Reduced Inequalities \(10.2\), 12 - Responsible Consumption and Production \(12.2\), 15 - Life on Land \(15.1\). In particolare, nel progetto MiniCoder i dipendenti si sono focalizzati sul goal 4, 8 e 10, mentre il progetto HireBitto ha utilizzato i goal 8, 10, 12 e 15 come guida.
 
-L’azienda desidera aumentare il suo impegno anche verso l’SDG 5 - Gender Equality, considerando in particolare i subgoals 5.1 e 5.b e portando questo tema all’attenzione della comunità tramite le attività di MiniCoder, i laboratori artistici e le giornate didattiche nelle scuole. Anche il progetto HireBitto necessita di maggior attenzione all’SDG 5 e mondora intende impegnarsi in particolar modo nel sostegno delle donne che svolgono il lavoro di pastore negli alpeggi locali. 
+L’azienda desidera aumentare il suo impegno anche verso l’SDG 5 - Gender Equality, considerando in particolare i subgoals 5.1 e 5.b e portando questo tema all’attenzione della comunità tramite le attività di MiniCoder, i laboratori artistici e le giornate didattiche nelle scuole. Anche il progetto HireBitto necessita di maggior attenzione all’SDG 5 e mondora intende impegnarsi in particolar modo nel sostegno delle donne che svolgono il lavoro di pastore negli alpeggi locali.
 
 ### SDGs e Subgoals citati
 
@@ -69,5 +68,5 @@ L’azienda desidera aumentare il suo impegno anche verso l’SDG 5 - Gender Equ
 
 15.1 By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements
 
-https://sustainabledevelopment.un.org/sdgs
+[https://sustainabledevelopment.un.org/sdgs](https://sustainabledevelopment.un.org/sdgs)
 

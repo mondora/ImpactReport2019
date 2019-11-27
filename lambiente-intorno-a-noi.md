@@ -10,7 +10,7 @@
 
 ### Cycle2Work
 
-Cycle2Work è un progetto benefit di mondora che premia i dipendenti che si recano al lavoro in bicicletta o a piedi effettuando un rimborso chilometrico di 0,20€/km. Per il calcolo dei km del tragitto casa-lavoro Cycle2Work si appoggia all'app Strava, attraverso cui è possibile tracciare con molta precisione la tratta percorsa ed inoltre avere un riferimento oltre che chilometrico anche in termini di tempistiche e dislivello. Cycle2Work è un programma gratuito e aperto a tutti. Dall’applicazione è possibile visualizzare quanti km sono stati percorsi dall’azienda/team, quanta CO2 è stata “risparmiata” e quali aziende sono prime nella classifica di migliori per il mondo. Nel 2019 i dipendenti mondora hanno risparmiato 1509 kg di Co2 per un totale di 6589 km. 
+Cycle2Work è un progetto benefit di mondora che premia i dipendenti che si recano al lavoro in bicicletta o a piedi effettuando un rimborso chilometrico di 0,20€/km. Per il calcolo dei km del tragitto casa-lavoro Cycle2Work si appoggia all'app Strava, attraverso cui è possibile tracciare con molta precisione la tratta percorsa ed inoltre avere un riferimento oltre che chilometrico anche in termini di tempistiche e dislivello. Cycle2Work è un programma gratuito e aperto a tutti. Dall’applicazione è possibile visualizzare quanti km sono stati percorsi dall’azienda/team, quanta CO2 è stata “risparmiata” e quali aziende sono prime nella classifica di migliori per il mondo. Nel 2019 i dipendenti mondora hanno risparmiato 1509 kg di Co2 per un totale di 6589 km.
 
 ### Plastic Free & Paper Free
 
@@ -18,13 +18,13 @@ mondora è da sempre un'azienda paper free: in ufficio non viene utilizzata la c
 
 ## Valutazione dell'Impatto
 
-L’ambiente come stakeholder ha beneficiato delle azioni ad impatto di mondora attraverso le policy di Paper Free e Plastic Free Workplace che hanno permesso la quasi totale eliminazione di questi due prodotti sul luogo di lavoro, contribuendo ai Sustainable Development Goals 12 (12.5, 12.6, 12.8), 14 (14.1) e 15 (15.2). Inoltre, grazie al programma Cycle2Work l’azienda ha ridotto di 1509 kg le emissioni di co2 per i viaggi casa-lavoro dei propri dipendenti, ispirata dagli SDG 12 (12.6, 12.8, 12.b) e 13 (13.3). 
+L’ambiente come stakeholder ha beneficiato delle azioni ad impatto di mondora attraverso le policy di Paper Free e Plastic Free Workplace che hanno permesso la quasi totale eliminazione di questi due prodotti sul luogo di lavoro, contribuendo ai Sustainable Development Goals 12 \(12.5, 12.6, 12.8\), 14 \(14.1\) e 15 \(15.2\). Inoltre, grazie al programma Cycle2Work l’azienda ha ridotto di 1509 kg le emissioni di co2 per i viaggi casa-lavoro dei propri dipendenti, ispirata dagli SDG 12 \(12.6, 12.8, 12.b\) e 13 \(13.3\).
 
-Di grande impatto è stato anche il lavoro costante dei colleghi che si occupano della terra, i contadini assunti dall’azienda ogni 20 dipendenti per curare i campi e produrre verdure e cereali per tutti i dipendenti e le loro famiglie. Grazie al lavoro di questi colleghi mondora prosegue il suo impegno verso gli SDG 12 (12.3) e 15 (15.1, 15.4) dimostrando che è possibile per qualsiasi tipo di azienda prendersi cura del proprio territorio. 
+Di grande impatto è stato anche il lavoro costante dei colleghi che si occupano della terra, i contadini assunti dall’azienda ogni 20 dipendenti per curare i campi e produrre verdure e cereali per tutti i dipendenti e le loro famiglie. Grazie al lavoro di questi colleghi mondora prosegue il suo impegno verso gli SDG 12 \(12.3\) e 15 \(15.1, 15.4\) dimostrando che è possibile per qualsiasi tipo di azienda prendersi cura del proprio territorio.
 
-Infine, l’azienda si sta impegnando da tempo nello sviluppo di una piattaforma che permetta di misurare e monitorare in modo automatico tutti i valori che creano impatto e contribuiscono ai Sustainable Development Goals. Questa piattaforma permette di valutare e migliorare il proprio impegno in modo costante nel tempo e misura il contributo di ogni persona che fa parte dell’azienda, fornendo un quadro completo dell’impatto complessivo che i dipendenti possono creare in un’azienda che li supporta (SDG 12.6 e 12.8).
+Infine, l’azienda si sta impegnando da tempo nello sviluppo di una piattaforma che permetta di misurare e monitorare in modo automatico tutti i valori che creano impatto e contribuiscono ai Sustainable Development Goals. Questa piattaforma permette di valutare e migliorare il proprio impegno in modo costante nel tempo e misura il contributo di ogni persona che fa parte dell’azienda, fornendo un quadro completo dell’impatto complessivo che i dipendenti possono creare in un’azienda che li supporta \(SDG 12.6 e 12.8\).
 
-L’impegno verso gli SDG 12, 13, 14 e 15 può e deve sempre aumentare: mondora ha infatti redatto un documento in cui analizza il proprio impatto “negativo” e tra i fattori evidenziati relativi all’ambiente troviamo le trasferte di lavoro e i viaggi per partecipare a conferenze - due aspetti del nostro lavoro su cui abbiamo ancora molto lavoro da fare e verso cui ci impegneremo nel 2020. 
+L’impegno verso gli SDG 12, 13, 14 e 15 può e deve sempre aumentare: mondora ha infatti redatto un documento in cui analizza il proprio impatto “negativo” e tra i fattori evidenziati relativi all’ambiente troviamo le trasferte di lavoro e i viaggi per partecipare a conferenze - due aspetti del nostro lavoro su cui abbiamo ancora molto lavoro da fare e verso cui ci impegneremo nel 2020.
 
 ### SDG e Subgoals citati
 
@@ -56,4 +56,5 @@ L’impegno verso gli SDG 12, 13, 14 e 15 può e deve sempre aumentare: mondora 
 
 15.4 By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development
 
-https://sustainabledevelopment.un.org/sdgs
+[https://sustainabledevelopment.un.org/sdgs](https://sustainabledevelopment.un.org/sdgs)
+
