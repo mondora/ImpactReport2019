@@ -22,7 +22,7 @@ Il mutuo aiuto è uno di quei valori che da sempre fortifica le relazioni umane,
 
 ### Impatto Individuale
 
-
+Quest'anno è stata posta molta attenzione all'impatto individuale che ogni persona può portare all'interno dell'azienda. Le persone assunte nel 2019 hanno presentato una lettera di impegno personale che è stata aggiunta al contratto di lavoro e resa misurabile nel tempo grazie all'identificazione di metriche adeguate. In alcuni casi il piano di crescita è stato legato nello specifico alla creazione di impatto individuale all'interno dell'azienda. Anche i dipendenti che sono in azienda da più tempo hanno la possibilità di presentare la propria lettera di impegno e di lavorare ad un progetto ad impatto di loro scelta. L'azienda si impegna a sostenere tutti questi progetti, fornendo contatti, spazi, tempo per poterli portare avanti. 
 
 ## Attività consolidate
 
@@ -36,11 +36,11 @@ mondora offre ai propri dipendenti opportunità di formazione continue nel tempo
 
 ### 4to5 
 
-mondora promuove la condivisione della conoscenza di ogni persona all’interno dell’azienda, incoraggiando i dipendenti ad organizzare dei *4to5*, degli incontri di un' ora aperti a tutti, in cui chi vuole può insegnare qualcosa ai colleghi, sia in ambito tecnologico che non. Principalmente questi incontri si tengono il giovedì pomeriggio dalle 16.00 alle 17.00, da questo il nome 4to5. Nel 2019 i 4to5 sono aumentati rispetto allo scorso anno; contiamo infatti 18 eventi con una media di 10 partecipanti ad evento. 
+mondora promuove la condivisione della conoscenza di ogni persona all’interno dell’azienda, incoraggiando i dipendenti ad organizzare dei *4to5*, degli incontri di un' ora aperti a tutti, in cui chi vuole può insegnare qualcosa ai colleghi, sia in ambito tecnologico che non. Principalmente questi incontri si tengono il giovedì pomeriggio dalle 16.00 alle 17.00, da questo il nome 4to5. Grazie al lavoro volontario di un collega che si è impegnato nella programmazione e gestione degli eventi, nel 2019 i 4to5 sono aumentati rispetto allo scorso anno; contiamo infatti 18 eventi con una media di 10 partecipanti ad evento. 
 
 ### Failure Party
 
-L'azienda incentiva l'apprendimento e il progresso del singolo, dando così la possibilità di fare errori per poi migliorarsi, perchè crede che le persone non imparano dai successi ma dagli errori. Per questo motivo è stata introdotta la pratica del failure party che consiste nella celebrazione dei fallimenti:festeggiare un fallimento è il modo migliore per non colpevolizzare un individuo, ma analizzare insieme cosa non ha funzionato nell’ecosistema e imparare in modo collettivo dall’errore commesso.
+L'azienda incentiva l'apprendimento e il progresso del singolo, dando così la possibilità di fare errori per poi migliorarsi, perchè crede che le persone non imparano dai successi ma dagli errori. Per questo motivo è stata introdotta la pratica del failure party che consiste nella celebrazione dei fallimenti: festeggiare un fallimento è il modo migliore per non colpevolizzare un individuo, ma analizzare insieme cosa non ha funzionato nell’ecosistema e imparare in modo collettivo dall’errore commesso.
 
 ### New Opportunities Project
 
