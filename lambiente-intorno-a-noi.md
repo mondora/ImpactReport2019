@@ -4,13 +4,13 @@
 
 ### Gli agricoltori mondora
 
-text
+Gli agricoltori di mondora non solo coltivano i campi, ma cercano anche di creare momenti di socialità attraverso la consegna delle cassette di verdura settimanali. Regalano sorrisi, concedono consigli su come utilizzare le verdure stimolando la curiosità e l'interesse per la Terra, da cui tutti proveniamo. Sono aumentati di numero quest'anno, sono 3. È stata data la possibilità ad un nuovo ragazzo di lavorare con noi per gestire in maniera ancora più completa i nostri campi. Ora possiamo permetterci di avere un orto anche durante la stagione invernale e ci si progetta con lui per portare le conoscenze agricole ai colleghi che lavorano da remoto, aiutarli a saper gestire un orto familiare al fine di avere verdure bio sempre fresche e genuine a casa.
 
 ## Attività consolidate
 
 ### Il lavoro nei campi
 
-text
+Decidere di coltivare un campo con tecniche biologiche e biodinamiche significa tante cose. Salvaguardiamo il paesaggio da un lento processo di industrializzazione che non solo porta grigio all'orizzonte, ma bensì l'innalzamento delle temperature, l'interruzione del ciclo dell'acqua, la creazione di barriere architettoniche alla libera circolazione degli animali, la desertificazione e l'impoverimento di sostanza organica dei terreni, fondamentalmente impedisce la vita, con i campi noi, invece, la proteggiamo. Proteggiamo l'ecologia di un luogo diventandone parte attiva non distruttiva, manteniamo la biodiversità, contribuiamo al ciclo del carbonio, dell'acqua, dell'azoto e di tutti gli elementi presenti nella terra, salvaguardiamo il paesaggio montano, portiamo avanti la sapienza della terra e le tradizioni dell'agricoltura valtellinese. Ci prendiamo cura della Terra, entità indissolubilmente legata alla storia dell'uomo a cui ha dato la possibilità di crescere, creare, emanciparsi.
 
 ### Cycle2Work
 
