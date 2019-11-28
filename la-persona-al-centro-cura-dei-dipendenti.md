@@ -26,7 +26,7 @@ Quest'anno è stata posta molta attenzione all'impatto individuale che ogni pers
 
 ### Self Management
 
-\(orario flessibile, lavoro da remoto, decisioni su loomio, organizzazione in team\)
+mondora è un'azienda *self managed* in cui le persone si organizzano in team autonomi che seguono il proprio cliente in tutte le fasi dei lavori. Non ci sono gerarchie all'interno dell'azienda ed ognuno è resposabile in egual modo del lavoro svolto e della soddisfazione dei clienti. Un'azienda self managed è per necessità un'azienda di adulti, e come tali, i dipendenti hanno la libertà di scegliere come, quando e dove lavorare. La possibilità di lavorare da remoto, l'organizzazione autonoma della propria giornata e l'orario flessibile permettono alle persone di contribuire alla mission e agli obiettivi dell'azienda in modo proattivo e costruttivo, senza trascurare gli aspetti non lavorativi della propria vita. 
 
 ### Corsi di Formazione
 
