@@ -9,4 +9,5 @@
 * [L’interdipendenza: cura degli stakeholders](linterdipendenza-cura-degli-stakeholders.md)
 * [Premi e Press](premi-e-press.md)
 * [Uno sguardo al futuro](uno-sguardo-al-futuro.md)
+* [Autori](autori.md)
 
