@@ -2,9 +2,9 @@
 
 ## Nuove attività 2019
 
-### Accessibilità
+### L'Accessibilità nel software
 
-### altro?
+text
 
 ## Attività consolidate
 
