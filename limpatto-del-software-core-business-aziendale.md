@@ -5,7 +5,7 @@
 ### L'Accessibilità nel software
 L'attenzione al tema dell'accessibilità è fondamentale nello sviluppo del nostro software. 
 Adottando un approccio _inclusive design first_,  dal design dell'interfaccia alla progettazione del nuovo sofware vengono utilizzate tutte quelle attività di sviluppo per rendere inclusivo il prodotto finale rilasciato al cliente.
-Crediamo fortemente che un software accessibile migliori fortemente l'esperienza utente di tutte le tipologie di persone e non solo di persone con disabilità.
+Crediamo fermamente che un software accessibile migliori fortemente l'esperienza utente di tutte le tipologie di persone e non solo di persone con disabilità.
 
 ## Attività consolidate
 
