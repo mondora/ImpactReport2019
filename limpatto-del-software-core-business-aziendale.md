@@ -4,7 +4,8 @@
 
 ### L'Accessibilità nel software
 
-text
+L'attenzione al tema dell'accessibilità del software è fondamentale nello sviluppo del nostro software: nella progettazione del nuovo sofware viengono incluse tutte quelle attività di sviluppo per rendere inclusivo il prodotto rilasciato al cliente.
+
 
 ## Attività consolidate
 
