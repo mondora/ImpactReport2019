@@ -8,6 +8,7 @@
 * Lucia Longoni
 * Aureliano Bergese
 * Daria Vener
-* Alessia Belli
 * Simone Lazzano
+* Gabriele Fontana
+* Francesco Chiapella
 
