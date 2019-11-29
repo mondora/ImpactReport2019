@@ -1,4 +1,4 @@
-# Introduzione
+# Il 2019 di mondora
 
 Il 2019 segna un anno di crescita importante per mondora: siamo passati dal considerare esclusivamente l'impatto "aziendale" fino al 2018, al costruire insieme ed integrare all'interno dell'azienda l'impatto personale che ogni dipendente porta sul luogo di lavoro. Inoltre abbiamo consolidato ed ampliato la stipulazione di Accordi di Interdipendenza, estendendo questa pratica a tutti i nostri clienti, fornitori e collaboratori occasionali. Questi sono cambiamenti importanti che permettono all'azienda stessa di evolvere verso una maggior coscienza dell'insieme delle forze che la guidano nella ricerca della creazione di impatto positivo e del numero di stakeholders coinvolti in questo processo.
 
