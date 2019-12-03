@@ -11,4 +11,4 @@
 * Simone Lazzano
 * Gabriele Fontana
 * Francesco Chiapella
-
+* Alessia Belli
