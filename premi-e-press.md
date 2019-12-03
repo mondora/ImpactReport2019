@@ -24,12 +24,13 @@ mondora ha ricevuto il riconoscimento Best For The World Overall grazie all'impe
 
 ## Press e interventi a conferenze:
 
-Alessia: 
-- 8 maggio 2019, Milano, Non l’8 solo a marzo. Superiamo i luoghi comuni sulle pari opportunità per costruire un terreno comune di crescita.Nnido Scuola Dadà, Corso Italia 66, Milano. L'incontro è organizzato dal comitato civico, iscritto nell'ambito dei comitati "Ritorno al futuro", fondato e coordinato da Alessia Cappello insieme ad altre 4 giovani professioniste e tratta il tema delle pari opportunità unicamente nel contesto lavorativo e professionale. L'obiettivo del comitato è quello di coinvolgere la società civile, trovando soluzioni concrete e proposte utili grazie alla condivisione dell'esperienza quotidiana di manager, imprenditrici/ori, mamme/papà, lavoratrici/ori. Panel Aziende&meritocrazia: critica dell’approccio meritocratico e valore del “genere” come sguardo che porta al cambiamento nei contesti organizzativi in chiave di eguaglianza e pari opportunità.
-- 8 giugno 2019, Rondine Cittadella della Pace, Arezzo, Youtopic Fest. Gestione dell’elevator pitch degli studenti della world house di Rondine.
-- 29 ottobre. Università di Macerata
+Alessia Belli, Filosofa Aziendale
+
+* 8 maggio 2019, Milano, **Non l’8 solo a marzo**. Superiamo i luoghi comuni sulle pari opportunità per costruire un terreno comune di crescita.Nnido Scuola Dadà, Corso Italia 66, Milano. L'incontro è organizzato dal comitato civico, iscritto nell'ambito dei comitati "Ritorno al futuro", fondato e coordinato da Alessia Cappello insieme ad altre 4 giovani professioniste e tratta il tema delle pari opportunità unicamente nel contesto lavorativo e professionale. L'obiettivo del comitato è quello di coinvolgere la società civile, trovando soluzioni concrete e proposte utili grazie alla condivisione dell'esperienza quotidiana di manager, imprenditrici/ori, mamme/papà, lavoratrici/ori. Panel Aziende&meritocrazia: critica dell’approccio meritocratico e valore del “genere” come sguardo che porta al cambiamento nei contesti organizzativi in chiave di eguaglianza e pari opportunità.
+* 8 giugno 2019, Rondine Cittadella della Pace, Arezzo, **Youtopic Fest**. Gestione dell’elevator pitch degli studenti della world house di Rondine.
+* 29 ottobre. **Università di Macerata**
 Incontro con gli studenti del corso di laurea in filosofia per parlare delle opportunità professionali dopo la laurea in filosofia. Condivisione dell’esperienza in mondora srl sb.
 Lezione nel corso di etica della differenza sessuale, sul tema differenza di genere e filosofia: dalla ricerca alla professione
-- 15 novembre: partecipazione al Gamma Forum, forum nazionale dell’imprenditoria femminile e giovanile. Intervento sul ruolo della filosofia in azienda.
+* 15 novembre: partecipazione al **Gamma Forum**, forum nazionale dell’imprenditoria femminile e giovanile. Intervento sul ruolo della filosofia in azienda.
 
 
