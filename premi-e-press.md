@@ -24,6 +24,40 @@ mondora ha ricevuto il riconoscimento Best For The World Overall grazie all'impe
 
 ## Press e interventi a conferenze:
 
+Il 2019 è stato un anno ricco di convegni, speech e incontri di vario genere a cui siamo stati chiamati a partecipare attivamente per condividere il modello e le pratiche mondora. 
+
+Francesco Mondora, Co-CEO di mondora
+
+* 31 Gennaio, Bruxelles, incontro Microsoft ISV.
+* 5 Febbraio, incontro Davines Digital Board.
+* 5 marzo, Milano, incontro F5 Forum
+* 21 marzo, Tresivio, incontro BNI Sondrio
+* 2 e 3 aprile, Amsterdam, conferenza Impact Conference
+* 9 Aprile, Milano, incontro Liberation Breakfast
+* 4 Maggio, Tirano, incontro Scuola d’impresa
+* 4 Maggio, Sondrio, incontro Rotary Club
+* 9 maggio, museo Nicolis Verona, conferenza Self Management Conference
+* 23 Maggio, Milano sede Microsoft, Ability Summit 2019
+* 25 Maggio, Mantova, TedX
+* 7 e 8 Giugno, Rondinelle città della Pace, Arezzo; Youtopic Fest 
+* 13 e 14 Giugno, Parigi, Amour Conference
+* 19, 20 e 21 Giugno, sede LeroyMerlin, Scuola di economia civile
+* 5 Luglio, Alcantino (Tirano), incontro Realtà aumentata e diminuita
+* 23 Luglio, Padova, incontro Safilo
+* 20 e 21 Settembre, Atene, Agile Greece
+* 30 Settembre, incontro in LeroyMerlin
+* 4 e 5 Ottobre, Loppiano, incontro Innovare
+* 21 Ottobre, Roma, Lumsa University
+* 27 Ottobre, Università di Milano, incontro Quale società per la dignità dell’uomo
+* 30 e 31 Ottobre, Radio Italia, Il tempo dei nuovi eroi
+* 25 Novembre, Praga, Agilia Conference
+* 4 Dicembre, Ardenno, incontro BNI
+* 8 Dicembre, Conferenza Benedetta Economia
+* 13 Dicembre, Roma, Commento al vangelo con suor Alessandra Smerilli
+* 16 Dicembre, Lezione How to break the broken rules alla NABA
+
+
+
 Alessia Belli, Filosofa Aziendale
 
 * 8 maggio 2019, Milano, **Non l’8 solo a marzo**. Superiamo i luoghi comuni sulle pari opportunità per costruire un terreno comune di crescita.Nnido Scuola Dadà, Corso Italia 66, Milano. L'incontro è organizzato dal comitato civico, iscritto nell'ambito dei comitati "Ritorno al futuro", fondato e coordinato da Alessia Cappello insieme ad altre 4 giovani professioniste e tratta il tema delle pari opportunità unicamente nel contesto lavorativo e professionale. L'obiettivo del comitato è quello di coinvolgere la società civile, trovando soluzioni concrete e proposte utili grazie alla condivisione dell'esperienza quotidiana di manager, imprenditrici/ori, mamme/papà, lavoratrici/ori. Panel Aziende&meritocrazia: critica dell’approccio meritocratico e valore del “genere” come sguardo che porta al cambiamento nei contesti organizzativi in chiave di eguaglianza e pari opportunità.
