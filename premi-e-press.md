@@ -58,6 +58,7 @@ Francesco Mondora, Co-CEO di mondora
 
 
 
+
 Alessia Belli, Filosofa Aziendale
 
 * 8 maggio 2019, Milano, **Non l’8 solo a marzo**. Superiamo i luoghi comuni sulle pari opportunità per costruire un terreno comune di crescita.Nnido Scuola Dadà, Corso Italia 66, Milano. L'incontro è organizzato dal comitato civico, iscritto nell'ambito dei comitati "Ritorno al futuro", fondato e coordinato da Alessia Cappello insieme ad altre 4 giovani professioniste e tratta il tema delle pari opportunità unicamente nel contesto lavorativo e professionale. L'obiettivo del comitato è quello di coinvolgere la società civile, trovando soluzioni concrete e proposte utili grazie alla condivisione dell'esperienza quotidiana di manager, imprenditrici/ori, mamme/papà, lavoratrici/ori. Panel Aziende&meritocrazia: critica dell’approccio meritocratico e valore del “genere” come sguardo che porta al cambiamento nei contesti organizzativi in chiave di eguaglianza e pari opportunità.
