@@ -2,7 +2,7 @@
 
 ## Premi
 
-Nel 2019 mondora è stata riconosciuta tra le aziende Best For The World nelle categorie Overall, Changemakers, Community e Governance. Come ogni anno, al 10% delle aziende con il punteggio più alto nelle cinquee aree del B Impact Assessment gestito da B Lab, viene conferito questo riconoscimento per mettere in risalto il fatto che queste aziende sono le migliori per il mondo, per l'impatto positivo che producono.
+Nel 2019 mondora è stata riconosciuta tra le aziende Best For The World nelle categorie Overall, Changemakers, Community e Governance. Come ogni anno, al 10% delle aziende con il punteggio più alto nelle cinque aree del B Impact Assessment gestito da B Lab, viene conferito questo riconoscimento per mettere in risalto il fatto che queste aziende sono le migliori per il mondo, per l'impatto positivo che producono.
 
 ### Best for the World awards:
 
