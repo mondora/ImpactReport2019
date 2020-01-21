@@ -29,7 +29,7 @@ Attraverso Spluga, un software di mondora, è possibile monitorare e misurare sv
 
 ### Green Servers
 
-mondora ha effettuato un’analisi approfondita dell’impatto delle proprie operazioni aziendali e ha definito delle linee guida per la scelta dei server da utilizzare. Lavorando quasi esclusivamente in cloud, mondora si appoggia a provider esterni: dopo un’attenta valutazione dell’impatto ambientale di vari fornitori si è deciso di appoggiarsi principalmente ad Amazon AWS \([https://aws.amazon.com/it/about-aws/sustainability/](https://aws.amazon.com/it/about-aws/sustainability/) \) e Micrsoft Azure \([http://aka.ms/uplift](http://aka.ms/uplift) \). Questi provider infatti hanno un piano di riduzione della propria _carbon footprint_ e risultano la scelta migliore per l’utilizzo di server a minor impatto possible.
+mondora ha effettuato un’analisi approfondita dell’impatto delle proprie operazioni aziendali e ha definito delle linee guida per la scelta dei server da utilizzare. Lavorando quasi esclusivamente in cloud, mondora si appoggia a provider esterni: dopo un’attenta valutazione dell’impatto ambientale di vari fornitori si è deciso di appoggiarsi principalmente ad Amazon AWS \([https://aws.amazon.com/it/about-aws/sustainability/](https://aws.amazon.com/it/about-aws/sustainability/) \) e Microsoft Azure \([http://aka.ms/uplift](http://aka.ms/uplift) \). Questi provider infatti hanno un piano di riduzione della propria _carbon footprint_ e risultano la scelta migliore per l’utilizzo di server a minor impatto possible.
 
 ## Valutazione dell’Impatto
 
